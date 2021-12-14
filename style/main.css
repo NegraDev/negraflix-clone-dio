@@ -43,8 +43,8 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
     font-size: 16px;
-    background: url('/imgn/capa1.1.jpg');
-    height: 400px;
+    background: url('/imgn/capa1.2.jpg');
+    height: 600px;
     background-size: cover;
     
     display: flex;
